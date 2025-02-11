@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/M4/M4.iml" filepath="$PROJECT_DIR$/M4/M4.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySecondJavaProject/MySecondJavaProject.iml" filepath="$PROJECT_DIR$/MySecondJavaProject/MySecondJavaProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyfirstjavaProject/MyfirstjavaProject.iml" filepath="$PROJECT_DIR$/MyfirstjavaProject/MyfirstjavaProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/peeraphat.iml" filepath="$PROJECT_DIR$/.idea/peeraphat.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/DTIJavaProject04.iml" filepath="$PROJECT_DIR$/DTIJavaProject04.iml" />
+>>>>>>> f383e1b (oop)
     </modules>
   </component>
 </project>
